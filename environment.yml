@@ -1,0 +1,14 @@
+name: optenv
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - fenics-dolfinx=0.10.*
+  - mpich
+  - gmsh
+  - python-gmsh
+  - numpy
+  - scipy
+  - matplotlib
