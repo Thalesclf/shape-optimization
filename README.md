@@ -54,7 +54,7 @@ The flow is modeled as:
 The steady incompressible Navier–Stokes equations are
 
 $$
-\rho(\mathbf{u}\cdot\nabla)\mathbf{u}=-\nabla p+\mu\nabla^2\mathbf{u},
+\rho(\mathbf{u}\cdot\nabla) \mathbf{u} = -\nabla p + \mu\nabla^2\mathbf{u}
 $$
 
 together with the continuity equation
